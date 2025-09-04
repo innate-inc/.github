@@ -1,12 +1,13 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/innate-inc/.github/main/.github/profile/banner.png" alt="Innate Robotics Banner" width="100%">
+</div>
+
+<div align="center">
   
 [![Discord](https://img.shields.io/discord/1301466142128209950?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.com/invite/KtkyT97kc7)
 [![Website](https://img.shields.io/badge/Website-Visit%20Us-blue?logo=internet-explorer)](https://www.innate.bot)
 
 </div>
 
-Innate develops trainable, accessible and simple general-purpose robots for builders ranging from software engineers beginning in robotics, to advanced hardcore roboticists. 
-
-The world of robotics is changing, and with our platforms, you can quickly begin developing applications.
-
+The robotics era is upon us, but to get the future we want, we should all build it together.
 
