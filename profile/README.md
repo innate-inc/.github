@@ -1,7 +1,7 @@
 <div align="center">
   
 [![Discord](https://img.shields.io/discord/1301466142128209950?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.com/invite/KtkyT97kc7)
-[![Website](https://img.shields.io/badge/Website-Visit%20Us-blue?logo=internet-explorer)](https://YOUR_WEBSITE_URL)
+[![Website](https://img.shields.io/badge/Website-Visit%20Us-blue?logo=internet-explorer)](https://www.innate.bot)
 
 </div>
 
