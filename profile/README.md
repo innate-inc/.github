@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/innate-inc/.github/main/.github/profile/banner.png" alt="Innate Robotics Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/innate-inc/.github/main/1.png" alt="Innate Robotics Banner" width="100%">
 </div>
 
 <div align="center">
