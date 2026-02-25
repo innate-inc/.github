@@ -9,5 +9,8 @@
 
 </div>
 
-The robotics era is upon us, but to get the future we want, we should all build it together.
+The agentic robot / physical ai agent will be the biggest product of our time.
 
+It should not be kept closed.
+
+Innate is building it open-source.
