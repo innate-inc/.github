@@ -13,7 +13,7 @@ The agentic robot / physical ai agent will be the biggest product of our time.
 
 It should not be kept closed.
 
-Innate is building it open-source.
+Innate is building a completely integrated agentic robot, full-stack, open-source.
 
 **Currently in closed beta**
 
