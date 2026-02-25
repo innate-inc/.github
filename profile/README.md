@@ -14,3 +14,7 @@ The agentic robot / physical ai agent will be the biggest product of our time.
 It should not be kept closed.
 
 Innate is building it open-source.
+
+**Currently in closed beta**
+
+Reach out on Discord to ask for access to the OSS repositories
