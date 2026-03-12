@@ -6,7 +6,7 @@
 
 [![Discord](https://img.shields.io/discord/1301466142128209950?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.com/invite/KtkyT97kc7)
 [![Website](https://img.shields.io/badge/Website-Visit%20Us-blue?logo=internet-explorer)](https://www.innate.bot)
-[![Apply for Beta](https://img.shields.io/badge/Apply%20for%20Closed%20Beta-brightgreen?style=for-the-badge)](https://tally.so/r/kdAX66)
+[![Closed Beta](https://img.shields.io/badge/Closed%20Beta-Apply%20Now-blueviolet?style=for-the-badge&logo=rocket.chat&logoColor=white)](https://tally.so/r/kdAX66)
 
 </div>
 
