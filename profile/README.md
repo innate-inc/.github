@@ -10,7 +10,7 @@
 
 </div>
 
-The agentic robot / physical AI agent will be the biggest product of our time.
+The personal robot / physical AI agent will be the biggest product of our time.
 
 It should not be kept closed.
 
