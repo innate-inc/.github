@@ -14,7 +14,7 @@ The personal robot / physical AI agent will be the biggest product of our time.
 
 It should not be kept closed.
 
-Innate is building a fully integrated, open-source agentic robot — hardware, OS, and AI stack. Run VLAs, embodied agents, and agentic workflows on a ~$1k platform.
+Innate is building a fully integrated, open-source agentic robot — hardware, OS, and AI stack. Run VLAs, embodied agents, and agentic workflows on a ~$2k platform.
 
 ### 🔗 Start Here
 
