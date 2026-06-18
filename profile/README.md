@@ -6,7 +6,6 @@
 
 [![Discord](https://img.shields.io/discord/1301466142128209950?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.com/invite/KtkyT97kc7)
 [![Website](https://img.shields.io/badge/Website-Visit%20Us-blue?logo=internet-explorer)](https://www.innate.bot)
-[![Closed Beta](https://img.shields.io/badge/Closed%20Beta-Apply%20Now-blueviolet?logo=rocket.chat&logoColor=white)](https://tally.so/r/kdAX66)
 
 </div>
 
@@ -22,6 +21,4 @@ Innate is building a fully integrated, open-source agentic robot — hardware, O
 - [**mars**](https://github.com/innate-inc/mars) — Hardware design files (~$1k BOM)
 - [**docs**](https://docs.innate.bot) — Full documentation
 
-**Currently in closed beta** — beta members get access to CAD, URDF, the OS, and a home environment simulation. The OS and simulation work for anyone; for the best hardware experience, we recommend our kit.
-
-[**→ Apply for access**](https://tally.so/r/kdAX66)
+**Currently in beta** — beta users get access to CAD, URDF, the OS, and a home environment simulation. The OS and simulation work for anyone; for the best hardware experience, we recommend our kit.
