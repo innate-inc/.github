@@ -18,7 +18,7 @@ Innate is building a fully integrated, open-source agentic robot — hardware, O
 ### 🔗 Start Here
 
 - [**innate-os**](https://github.com/innate-inc/innate-os) — The robot operating system
-- [**mars**](https://github.com/innate-inc/mars) — Hardware design files (~$1k BOM)
+- [**mars**](https://github.com/innate-inc/mars) — Hardware design files (~$1k BOM if sourced individualy)
 - [**docs**](https://docs.innate.bot) — Full documentation
 
 **Currently in beta** — beta users get access to CAD, URDF, the OS, and a home environment simulation. The OS and simulation work for anyone; for the best hardware experience, we recommend our kit.
