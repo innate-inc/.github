@@ -23,4 +23,4 @@ MARS brings together open-source hardware, Innate OS, and an AI stack for runnin
 - [**mars**](https://github.com/innate-inc/mars) — Hardware design files (~$1k BOM if sourced individualy)
 - [**docs**](https://docs.innate.bot) — Full documentation
 
-**Currently in beta** — beta users get access to CAD, URDF, the OS, and a home environment simulation. The OS and simulation work for anyone; for the best hardware experience, we recommend our kit.
+**MARS beta** — beta users get access to CAD, URDF, the OS, and a home environment simulation. The OS and simulation work for anyone; for the best hardware experience, we recommend our kit.
