@@ -13,7 +13,9 @@ The personal robot / physical AI agent will be the biggest product of our time.
 
 It should not be kept closed.
 
-Innate is building a fully integrated, open-source agentic robot — hardware, OS, and AI stack. Run VLAs, embodied agents, and agentic workflows on a ~$995 platform.
+MARS is our first-generation robot for builders. We’ve shipped MARS and built our next robot, which we’re now showing privately. [See what’s next](https://www.innate.bot/).
+
+MARS brings together open-source hardware, Innate OS, and an AI stack for running VLAs, embodied agents, and agentic workflows on a ~$995 platform.
 
 ### 🔗 Start Here
 
