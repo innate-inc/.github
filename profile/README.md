@@ -1,4 +1,6 @@
-<h1 align="center">innate</h1>
+<p align="center">
+  <img src="./innate-wordmark.svg" alt="Innate" width="156">
+</p>
 
 <p align="center">
   <strong>Your personal robot</strong><br>
